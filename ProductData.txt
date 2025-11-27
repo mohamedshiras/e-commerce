@@ -1,0 +1,10 @@
+1001 Laptop 200000
+1002 Headphone 4500
+1003 Speakers 5000
+1004 Microphone 1500
+1005 Webcam 2500
+1006 Monitor 17000
+1007 Keyborad 3500
+1008 Mouse 2000
+1009 Printer 15000
+1010 RAM 5500
